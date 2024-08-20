@@ -2,7 +2,6 @@
 
 Welcome to the **E-Commerce Platform**! This project is a full-featured online shopping platform built using the MERN stack. It features secure authentication with JWT, a smooth user experience powered by React and Redux, server-side rendering with Next.js, and integrated payments through Stripe. 
 
-![E-Commerce Banner](2022-08-03_094154.png)
 
 ---
 
@@ -14,30 +13,6 @@ Welcome to the **E-Commerce Platform**! This project is a full-featured online s
 - **Stripe Payment Integration:** Secure and easy payments with the Stripe gateway.
 - **JWT Authentication:** Secure user authentication using JSON Web Tokens.
 - **Responsive Design:** Fully responsive design for all devices.
-
----
-
-## 🎥 Demo
-
-Check out a live demo of the project [here](#).
-
-![E-Commerce Demo](2022-08-03_094255.png)
-
----
-
-## 📸 Screenshots
-
-### Homepage
-![Homepage](2022-08-03_094343.png)
-
-### Product Page
-![Product Page](2022-08-03_094443.png)
-
-### Shopping Cart
-![Shopping Cart](2022-08-03_094522.png)
-
-### Checkout
-![Checkout](2022-08-03_094556.png)
 
 ---
 

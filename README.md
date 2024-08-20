@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Platform with MERN Stack
+# 🛒 EliteMart
 
 Welcome to the **E-Commerce Platform**! This project is a full-featured online shopping platform built using the MERN stack. It features secure authentication with JWT, a smooth user experience powered by React and Redux, server-side rendering with Next.js, and integrated payments through Stripe. 
 
